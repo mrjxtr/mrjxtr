@@ -3,6 +3,7 @@
 
 **Welcome to my GitHub profile!** I'm a versatile data professional passionate about **Data Science**, **Data Analytics**, and **Creative Content Production**. My background spans diverse fields including **Data Analysis**, **Social Media Management**, **Product Management**, **Education**, **Music Production**, and **Video Editing**. I thrive in turning data into actionable insights and always love diving into new challenges!
 
+📝 **Let's Connect!**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrjxtr)
 [![Upwork](https://img.shields.io/badge/-Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f2fd0e74a0c5055a?mp_source=share)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mrjxtr)
@@ -108,7 +109,7 @@
 
 ## 📜 **Certifications**
 
-- 📝 **Google Data Analytics Professional [Certificate](https://github.com/mrjxtr/CODE/blob/c377ac8bd7b7e558abc2e21a93b0ac5b555b4ba1/Google%20Data%20Analytics/Coursera%20T2UI8QFOSZ4I.pdf)**
+- 📃 **Google Data Analytics Professional [Certificate](https://github.com/mrjxtr/CODE/blob/c377ac8bd7b7e558abc2e21a93b0ac5b555b4ba1/Google%20Data%20Analytics/Coursera%20T2UI8QFOSZ4I.pdf)**
 
 <details>
 
@@ -118,7 +119,7 @@
 
 </details>
 
-- 📝 **Data Analytics Bootcamp [Certificate](https://github.com/mrjxtr/CODE/blob/main/Data%20Analytics%20Bootcamp%20Certification%20of%20Completion/Data%20Analytics%20Bootcamp%20Certificate.png)**
+- 📃 **Data Analytics Bootcamp [Certificate](https://github.com/mrjxtr/CODE/blob/main/Data%20Analytics%20Bootcamp%20Certification%20of%20Completion/Data%20Analytics%20Bootcamp%20Certificate.png)**
 
 <details>
 
@@ -172,8 +173,7 @@ Feel free to explore my repositories, star the ones you like, and let's collabor
 
 Thank you for stopping by! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. I'm always open to connecting with like-minded individuals!
 
-## 📝 **Let's Connect!**
-
+📝 **Let's Connect!**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrjxtr)
 [![Upwork](https://img.shields.io/badge/-Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f2fd0e74a0c5055a?mp_source=share)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mrjxtr)
