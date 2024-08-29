@@ -106,7 +106,7 @@
 
 ## 📜 **Certifications**
 
-| Certificate | Details |
+| Certificate | Badge |
 |-------------|---------|
 | 📃 **[Google Data Analytics Professional Certificate](https://github.com/mrjxtr/CODE/blob/c377ac8bd7b7e558abc2e21a93b0ac5b555b4ba1/Google%20Data%20Analytics/Coursera%20T2UI8QFOSZ4I.pdf)** | <details><summary>👀 see badge</summary><img src="https://github.com/mrjxtr/CODE/blob/main/Google%20Data%20Analytics/google-data-analytics-professional-certificate.2.png" alt="Credly Verified" width="125" height="auto"></details> |
 | 📃 **[Data Analytics Bootcamp Certificate](https://github.com/mrjxtr/CODE/blob/c377ac8bd7b7e558abc2e21a93b0ac5b555b4ba1/Data%20Analytics%20Bootcamp%20Certification%20of%20Completion/Data%20Analytics%20Bootcamp%20Certificate.png)** | <details><summary>👀 see badge</summary><img src="https://github.com/mrjxtr/CODE/blob/main/Data%20Analytics%20Bootcamp%20Certification%20of%20Completion/Verified%20Analytics%20Bootcamp%20Certification.png" alt="NY: ALEXANDER BREGERG" width="125" height="auto"></details> |
