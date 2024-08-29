@@ -29,13 +29,14 @@
 - **Video & Audio Editing:** Adobe Premiere Pro, Capcut
 - **Music Production and Editing:** FL Studio, Audacity
 - **Graphic Design:** Adobe Photoshop, Canva
+- **Recording and Streaming** OBS
 
 ## 🛠️ **Other Technologies & Tools**
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
     <td style="padding: 0; width: 25%; vertical-align: top;">
-      - DBeaver<br>
+      - WSL<br>
       - Docker
     </td>
     <td style="padding: 0; width: 25%; vertical-align: top;">
@@ -43,12 +44,16 @@
       - Powershell 7
     </td>
     <td style="padding: 0; width: 25%; vertical-align: top;">
-      - Slack<br>
-      - Discord
+      - Github<br>
+      - DBeaver
     </td>
     <td style="padding: 0; width: 25%; vertical-align: top;">
       - Notion<br>
       - TradingView
+    </td>
+    <td style="padding: 0; width: 25%; vertical-align: top;">
+      - Slack<br>
+      - Discord
     </td>
   </tr>
 </table>
