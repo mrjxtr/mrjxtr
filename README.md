@@ -94,6 +94,14 @@
 
 ---
 
+## 📜 **Certifications**
+
+- 📝 **Google Data Analytics Professional [Certificate](https://github.com/mrjxtr/CODE/blob/c377ac8bd7b7e558abc2e21a93b0ac5b555b4ba1/Google%20Data%20Analytics/Coursera%20T2UI8QFOSZ4I.pdf)**
+
+<img src="https://github.com/mrjxtr/CODE/blob/main/Google%20Data%20Analytics/google-data-analytics-professional-certificate.2.png" alt="Credly Verified" width="200" height="auto">
+
+---
+
 ## 🌱 **Currently Learning**
 
 - 🚀 **Advanced Visualization Techniques:** Mastering tools like Tableau, Power BI, and Looker Studio to create compelling and interactive data stories that drive actionable insights.
