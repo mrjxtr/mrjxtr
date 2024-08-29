@@ -98,9 +98,9 @@
 
 ## 📊 **Recent Projects**
 
-- **🧹 Data Cleaning and Manipulation:** Developed Python scripts for cleaning, wrangling, and analyzing complex sales data, improving data accuracy by up to 40%.[see repo](https://github.com/mrjxtr/Tokyo_AirBnb_Project)
-- **📊 Data Visualization:** Created dynamic and interactive dashboards using tools like Tableau, Power BI, and Matplotlib to communicate data-driven insights effectively.[see repo](https://github.com/mrjxtr/Tokyo_AirBnb_Project)
-- **🐍 Random Python Scripts:** Continuously exploring Python through various projects, including automation scripts, data processing tools, and coding challenges to deepen my understanding of programming concepts and best practices.[see repo](https://github.com/mrjxtr/Personal_For_Fun_Projects)
+- **🧹 Data Cleaning and Manipulation:** Developed Python scripts for cleaning, wrangling, and analyzing complex sales data, improving data accuracy by up to 40%. [see repo](https://github.com/mrjxtr/Tokyo_AirBnb_Project)
+- **📊 Data Visualization:** Created dynamic and interactive dashboards using tools like Tableau, Power BI, and Matplotlib to communicate data-driven insights effectively. [see repo](https://github.com/mrjxtr/Tokyo_AirBnb_Project)
+- **🐍 Random Python Scripts:** Continuously exploring Python through various projects, including automation scripts, data processing tools, and coding challenges to deepen my understanding of programming concepts and best practices. [see repo](https://github.com/mrjxtr/Personal_For_Fun_Projects)
 
 ---
 
