@@ -129,8 +129,6 @@
 
 </details>
 
----
-
 ## 📊 **Recent Projects**
 
 <details>
@@ -141,9 +139,9 @@
 - **📊 Data Visualization:** Created dynamic and interactive dashboards using tools like Tableau, Power BI, and Matplotlib to communicate data-driven insights effectively. [see repo](https://github.com/mrjxtr/Tokyo_AirBnb_Project)
 - **🐍 Random Python Scripts:** Continuously exploring Python through various projects, including automation scripts, data processing tools, and coding challenges to deepen my understanding of programming concepts and best practices. [see repo](https://github.com/mrjxtr/Personal_For_Fun_Projects)
 
-</details>
-
 ---
+
+</details>
 
 ### 🌱 **Currently Learning**
 
@@ -156,8 +154,6 @@
 - 🧠 **AI, Machine Learning & Data Science:** Deepening expertise in machine learning algorithms, data modeling, and statistical analysis to create software or provide solutions to solve real-world problems and make data-driven decisions.
 
 </details>
-
----
 
 ### 🎯 **Goals**
 
@@ -172,9 +168,7 @@
 
 ---
 
-Thank you for stopping by! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. I'm always open to connecting with like-minded individuals!
-
-📝 **Let's Connect!:**
+Thank you for stopping by! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. I'm always open to connecting with like-minded individuals! 📝 **Let's Connect!:**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrjxtr)
 [![Upwork](https://img.shields.io/badge/-Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f2fd0e74a0c5055a?mp_source=share)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mrjxtr)
