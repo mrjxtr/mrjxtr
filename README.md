@@ -26,12 +26,9 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
   
-- **Programming Languages:** Python, SQL, *and a bit of R*
-- **Data Visualization:** Tableau, *and a bit of Power BI and Looker studio*
-- **Video & Audio Editing:** Adobe Premiere Pro, Capcut
-- **Music Production and Editing:** FL Studio, Audacity
-- **Graphic Design:** Adobe Photoshop, Canva
-- **Recording and Streaming** OBS
+| **Programming Languages** | **Data Visualization** | **Video & Audio Editing** | **Music Production and Editing** | **Graphic Design** | **Recording and Streaming** |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| Python, SQL, *and a bit of R* | Tableau, *and a bit of Power BI and Looker Studio* | Adobe Premiere Pro, Capcut | FL Studio, Audacity | Adobe Photoshop, Canva | OBS
 
 ### 🛠️ **Other Technologies & Tools**
 
