@@ -1,6 +1,6 @@
 # Hi there, I'm Jester Lumacad! 👋
 
-**Welcome to my GitHub profile!** I'm a versatile professional passionate about **data analytics**, **storytelling**, and **creative content production**. My background spans diverse fields including **Data Analysis**, **Social Media Management**, **Teaching**, **Music Production**, and **Video Editing**. I thrive in turning data into actionable insights and always love diving into new challenges!
+**Welcome to my GitHub profile!** I'm a versatile professional passionate about **Data Science**, **Data Analytics**, and **cCreative Content Production**. My background spans diverse fields including **Data Analysis**, **Social Media Management**, **Product Management**, **Teaching**, **Music Production**, and **Video Editing**. I thrive in turning data into actionable insights and always love diving into new challenges!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrjxtr)
 [![Upwork](https://img.shields.io/badge/-Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f2fd0e74a0c5055a?mp_source=share)
