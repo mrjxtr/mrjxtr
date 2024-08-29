@@ -27,7 +27,7 @@
   
 | **👨🏼‍💻 Programming Languages** | **📊 Data Visualization** | **🎥 Video & Audio Editing** | **🎵 Music Production and Editing** | **🖼 Graphic Design** | **⏺ Recording and Streaming** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Python - SQL - *and a bit of R* | Tableau - *and a bit of Power BI and Looker Studio* | Adobe Premiere Pro - Capcut | FL Studio - Audacity | Adobe Photoshop - Canva | OBS
+| Python - SQL - R | Tableau - Power BI - Looker Studio | Adobe Premiere Pro - Capcut | FL Studio - Audacity | Adobe Photoshop - Canva | OBS
 
 | 🛠️ **Other Technologies & Tools** | 📚 **Python Libraries Used & Learning** |
 | :---: | :---: |
@@ -64,9 +64,9 @@
   
 <summary>👀 view topics </summary>
 
-- 🚀 **Advanced Visualization Techniques:** Mastering tools like Tableau, Power BI, and Looker Studio to create compelling and interactive data stories that drive actionable insights.
+- 🚀 **Advanced Visualization Techniques:** Mastering Tableau while learning Power BI and Looker Studio to craft compelling, interactive data stories that drive actionable insights across diverse platforms.
 - 🌐 **Web Scraping:** Developing advanced skills in extracting, parsing, and analyzing data from dynamic and complex web sources using Python libraries like BeautifulSoup, Scrapy, and Selenium, to gather valuable datasets for analysis.
-- 🧠 **AI, Machine Learning & Data Science:** Deepening expertise in machine learning algorithms, data modeling, and statistical analysis to create software or provide solutions to solve real-world problems and make data-driven decisions.
+- 🧠 **AI, Machine Learning & Data Science:** Building expertise in machine learning algorithms, data modeling, and statistical analysis to develop software solutions that solve real-world problems and enable data-driven decision-making, while also learning R.
 
 </details>
 
