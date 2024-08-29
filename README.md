@@ -29,7 +29,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Python - SQL - *and a bit of R* | Tableau - *and a bit of Power BI and Looker Studio* | Adobe Premiere Pro - Capcut | FL Studio - Audacity | Adobe Photoshop - Canva | OBS
 
-| 🛠️ **Other Technologies & Tools** | 📚 **Python Libraries Used and Learning** |
+| 🛠️ **Other Technologies & Tools** | 📚 **Python Libraries Used & Learning** |
 | :---: | :---: |
 | WSL - Docker - Conda - Powershell 7 - GitHub - DBeaver - Notion - TradingView - Slack - Discord    | Pandas - NumPy - SciPy - Matplotlib - Seaborn - Plotly - TensorFlow - Statsmodels - Scikit-Learn - BeautifulSoup - Scrapy - Selenium - PyTorch - XGBoost - Prophet - Keras |
 
