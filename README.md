@@ -28,79 +28,11 @@
   
 | **👨🏼‍💻 Programming Languages** | **📊 Data Visualization** | **🎥 Video & Audio Editing** | **🎵 Music Production and Editing** | **🖼 Graphic Design** | **⏺ Recording and Streaming** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Python, SQL, *and a bit of R* | Tableau, *and a bit of Power BI and Looker Studio* | Adobe Premiere Pro, Capcut | FL Studio, Audacity | Adobe Photoshop, Canva | OBS
+| Python - SQL - *and a bit of R* | Tableau - *and a bit of Power BI and Looker Studio* | Adobe Premiere Pro - Capcut | FL Studio - Audacity | Adobe Photoshop - Canva | OBS
 
-### 🛠️ **Other Technologies & Tools**
-
-<details>
-
-<summary>👀 view details </summary>
-
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="padding: 0; width: 25%; vertical-align: top;">
-      - WSL<br>
-      - Docker
-    </td>
-    <td style="padding: 0; width: 25%; vertical-align: top;">
-      - Conda<br>
-      - Powershell 7
-    </td>
-    <td style="padding: 0; width: 25%; vertical-align: top;">
-      - Github<br>
-      - DBeaver
-    </td>
-    <td style="padding: 0; width: 25%; vertical-align: top;">
-      - Notion<br>
-      - TradingView
-    </td>
-    <td style="padding: 0; width: 25%; vertical-align: top;">
-      - Slack<br>
-      - Discord
-    </td>
-  </tr>
-</table>
-
-</details>
-
-### 📚 **Python Libraries Used and Learning**
-
-<details>
-
-<summary>👀 view details </summary>
-
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="padding: 0; width: 25%; vertical-align: top;">
-      - Pandas<br>
-      - NumPy<br>
-      - SciPy
-    </td>
-    <td style="padding: 0; width: 25%; vertical-align: top;">
-      - Matplotlib<br>
-      - Seaborn<br>
-      - Plotly
-    </td>
-    <td style="padding: 0; width: 25%; vertical-align: top;">
-      - TensorFlow<br>
-      - Statsmodels<br>
-      - Scikit-Learn
-    </td>
-    <td style="padding: 0; width: 25%; vertical-align: top;">
-      - BeautifulSoup<br>
-      - Scrapy<br>
-      - Selenium<br>
-    </td>
-    <td style="padding: 0; width: 25%; vertical-align: top;">
-      - PyTorch<br>
-      - XGBoost<br>
-      - Prophet<br>
-      - Keras
-    </td>
-  </tr>
-</table>
-
-</details>
+| 🛠️ **Other Technologies & Tools**                                                                 | 📚 **Python Libraries Used and Learning**                                                                                     |
+|----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| WSL - Docker - Conda - Powershell 7 - GitHub - DBeaver - Notion - TradingView - Slack - Discord    | Pandas - NumPy - SciPy - Matplotlib - Seaborn - Plotly - TensorFlow - Statsmodels - Scikit-Learn - BeautifulSoup - Scrapy - Selenium - PyTorch - XGBoost - Prophet - Keras |
 
 ---
 
