@@ -33,7 +33,7 @@
 - **Graphic Design:** Adobe Photoshop, Canva
 - **Recording and Streaming** OBS
 
-## 🛠️ **Other Technologies & Tools**
+### 🛠️ **Other Technologies & Tools**
 
 <details>
 
@@ -66,7 +66,7 @@
 
 </details>
 
-## 📚 **Python Libraries Used and Learning**
+### 📚 **Python Libraries Used and Learning**
 
 <details>
 
@@ -113,9 +113,9 @@
 
 <details>
 
-<summary>👀 badge </summary>
+<summary>👀 see badge </summary>
 
-<img src="https://github.com/mrjxtr/CODE/blob/main/Google%20Data%20Analytics/google-data-analytics-professional-certificate.2.png" alt="Credly Verified" width="150" height="auto">
+<img src="https://github.com/mrjxtr/CODE/blob/main/Google%20Data%20Analytics/google-data-analytics-professional-certificate.2.png" alt="Credly Verified" width="125" height="auto">
 
 </details>
 
@@ -123,9 +123,9 @@
 
 <details>
 
-<summary>👀 badge </summary>
+<summary>👀 see badge </summary>
 
-<img src="https://github.com/mrjxtr/CODE/blob/main/Data%20Analytics%20Bootcamp%20Certification%20of%20Completion/Verified%20Analytics%20Bootcamp%20Certification.png" alt="NY: ALEXANDER BREGERG" width="150" height="auto">
+<img src="https://github.com/mrjxtr/CODE/blob/main/Data%20Analytics%20Bootcamp%20Certification%20of%20Completion/Verified%20Analytics%20Bootcamp%20Certification.png" alt="NY: ALEXANDER BREGERG" width="125" height="auto">
 
 </details>
 
@@ -133,13 +133,19 @@
 
 ## 📊 **Recent Projects**
 
+<details>
+
+<summary>👀 see details </summary>
+
 - **🧹 Data Cleaning and Manipulation:** Developed Python scripts for cleaning, wrangling, and analyzing complex sales data, improving data accuracy by up to 40%. [see repo](https://github.com/mrjxtr/Tokyo_AirBnb_Project)
 - **📊 Data Visualization:** Created dynamic and interactive dashboards using tools like Tableau, Power BI, and Matplotlib to communicate data-driven insights effectively. [see repo](https://github.com/mrjxtr/Tokyo_AirBnb_Project)
 - **🐍 Random Python Scripts:** Continuously exploring Python through various projects, including automation scripts, data processing tools, and coding challenges to deepen my understanding of programming concepts and best practices. [see repo](https://github.com/mrjxtr/Personal_For_Fun_Projects)
 
+</details>
+
 ---
 
-## 🌱 **Currently Learning**
+### 🌱 **Currently Learning**
 
 <details>
   
@@ -153,7 +159,7 @@
 
 ---
 
-## 🎯 **Goals**
+### 🎯 **Goals**
 
 <details>
   
