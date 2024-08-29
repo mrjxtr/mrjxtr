@@ -1,4 +1,4 @@
-# Hi there, I'm Jester Lumacad! (Mr J | @mrjxtr) 👋
+# Hi there, I'm Jester Lumacad! (Mr J | @mrjxtr) 👋🏼
 ### Data Analyst | Freelancer | YouTube Content Strategy, Management, and SEO Specialist
 
 **Welcome to my GitHub portfolio!** I'm a versatile data professional passionate about **Data Science**, **Data Analytics**, and **Creative Content Production**. My background spans diverse fields including **Data Analysis**, **Social Media Management**, **Product Management**, **Education**, **Music Production**, and **Video Editing**. I thrive in turning data into actionable insights and always love diving into new challenges!
