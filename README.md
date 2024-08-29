@@ -98,7 +98,7 @@
 
 - 🚀 **Advanced Visualization Techniques:** Mastering tools like Tableau, Power BI, and Looker Studio to create compelling and interactive data stories that drive actionable insights.
 - 🌐 **Web Scraping:** Developing advanced skills in extracting, parsing, and analyzing data from dynamic and complex web sources using Python libraries like BeautifulSoup, Scrapy, and Selenium, to gather valuable datasets for analysis.
-- 🧠 **AI, Machine Learning & Data Science:** Deepening expertise in machine learning algorithms, data modeling, and statistical analysis to solve real-world problems and make data-driven decisions.
+- 🧠 **AI, Machine Learning & Data Science:** Deepening expertise in machine learning algorithms, data modeling, and statistical analysis to create software or provide solutions to solve real-world problems and make data-driven decisions.
 
 ---
 
