@@ -29,8 +29,8 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Python - SQL - *and a bit of R* | Tableau - *and a bit of Power BI and Looker Studio* | Adobe Premiere Pro - Capcut | FL Studio - Audacity | Adobe Photoshop - Canva | OBS
 
-| 🛠️ **Other Technologies & Tools**                                                                 | 📚 **Python Libraries Used and Learning**                                                                                     |
-|----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| 🛠️ **Other Technologies & Tools** | 📚 **Python Libraries Used and Learning** |
+| :---: | :---: |
 | WSL - Docker - Conda - Powershell 7 - GitHub - DBeaver - Notion - TradingView - Slack - Discord    | Pandas - NumPy - SciPy - Matplotlib - Seaborn - Plotly - TensorFlow - Statsmodels - Scikit-Learn - BeautifulSoup - Scrapy - Selenium - PyTorch - XGBoost - Prophet - Keras |
 
 ---
@@ -41,6 +41,7 @@
 |-------------|---------|
 | 📃 **[Google Data Analytics Professional Certificate](https://github.com/mrjxtr/CODE/blob/c377ac8bd7b7e558abc2e21a93b0ac5b555b4ba1/Google%20Data%20Analytics/Coursera%20T2UI8QFOSZ4I.pdf)** | <details><summary>👀 see badge</summary><img src="https://github.com/mrjxtr/CODE/blob/main/Google%20Data%20Analytics/google-data-analytics-professional-certificate.2.png" alt="Credly Verified" width="125" height="auto"></details> |
 | 📃 **[Data Analytics Bootcamp Certificate](https://github.com/mrjxtr/CODE/blob/c377ac8bd7b7e558abc2e21a93b0ac5b555b4ba1/Data%20Analytics%20Bootcamp%20Certification%20of%20Completion/Data%20Analytics%20Bootcamp%20Certificate.png)** | <details><summary>👀 see badge</summary><img src="https://github.com/mrjxtr/CODE/blob/main/Data%20Analytics%20Bootcamp%20Certification%20of%20Completion/Verified%20Analytics%20Bootcamp%20Certification.png" alt="NY: ALEXANDER BREGERG" width="125" height="auto"></details> |
+| 📃 **[Microsoft Office Specialist Certificate](https://github.com/mrjxtr/CODE/blob/610e98699b2ad973cd2003ede143c50f470cf59e/Cert780122712425.pdf)** |  |
 
 
 ## 📊 **Recent Projects**
