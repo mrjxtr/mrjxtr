@@ -25,7 +25,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
   
-| **👨🏼‍💻 Programming Languages** | **📊 Data Visualization** | **🎥 Video & Audio Editing** | **🎵 Music Production and Editing** | **🖼 Graphic Design** | **⏺ Recording and Streaming** |
+| **👨🏼‍💻 Programming Languages** | **📊 Data Visualization** | **🎥 Video Editing** | **🎵 Music Production and Editing** | **🖼 Graphic Design** | **⏺ Recording and Streaming** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Python - SQL - R | Tableau - Power BI - Looker Studio | Adobe Premiere Pro - Capcut | FL Studio - Audacity | Adobe Photoshop - Canva | OBS
 
