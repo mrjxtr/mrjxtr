@@ -1,0 +1,33 @@
+################################
+# BASIC DATA SCIENCE LIBRARIES #
+################################
+
+# Numerical Computing
+NumPy # Numerical Computing
+
+# Data Manipulation and Analysis
+Pandas # Data Manipulation and Analysis
+
+# Database Interaction
+SQLAlchemy # SQL Toolkit and Object-Relational Mapping
+
+# Statistical Analysis
+Statsmodels # Statistical Modeling
+Scikit-Learn # Machine Learning
+
+# Data Visualization
+Matplotlib # 2D Plotting and Data Visualization
+Seaborn # Statistical Data Visualization
+Plotly # Interactive Data Visualization
+
+# Excel File Handling
+openpyxl # Excel File Handling
+xlrd # Excel File Reading
+
+# Jupyter Ecosystem
+notebook # Jupyter Notebook Interface
+ipykernel # IPython Kernel for Jupyter
+nbconvert # Jupyter Notebook Conversion
+
+# Exploratory Data Analysis
+pandas-profiling # Detailed Data Reports

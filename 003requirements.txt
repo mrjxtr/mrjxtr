@@ -1,0 +1,34 @@
+##########################################
+# ESSENTIAL PYTHON PROGRAMMING LIBRARIES #
+##########################################
+
+NumPy # Numerical Computing
+Pandas # Data Manipulation and Analysis
+requests # HTTP Requests
+pytest # Testing Framework
+black # Code Formatter
+flake8 # Code Linting
+
+#Optional Libraries (Install as Needed)
+
+# Web Scraping
+
+BeautifulSoup # HTML and XML Parsing
+Scrapy # Web Crawling and Scraping
+Selenium # Browser Automation
+
+# Machine Learning and AI
+
+Scikit-Learn # Machine Learning
+TensorFlow # Deep Learning
+Keras # Deep Learning
+PyTorch # Machine Learning and Deep Learning
+
+# Data Visualization and Analysis
+
+Matplotlib # 2D Plotting
+Seaborn # Statistical Data Visualization
+Plotly # Interactive Data Visualization
+SciPy # Scientific Computing
+Statsmodels # Statistical Modeling
+pandas-profiling # Detailed Data Reports

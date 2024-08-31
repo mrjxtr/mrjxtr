@@ -1,0 +1,57 @@
+#######################################
+# INTERMEDIATE DATA SCIENCE LIBRARIES #
+#######################################
+
+# Numerical Computing
+NumPy # Numerical Computing
+
+# Data Manipulation and Analysis
+Pandas # Data Manipulation and Analysis
+
+# Database Interaction
+SQLAlchemy # SQL Toolkit and Object-Relational Mapping
+
+# Statistical Analysis
+Statsmodels # Statistical Modeling
+Scikit-Learn # Machine Learning
+
+# Data Visualization
+Matplotlib # 2D Plotting and Data Visualization
+Seaborn # Statistical Data Visualization
+Plotly # Interactive Data Visualization
+
+# Exploratory Data Analysis
+pandas-profiling # Detailed Data Reports
+
+# Web Scraping
+BeautifulSoup # HTML and XML Parsing for Web Scraping
+Requests # HTTP Requests and Web Scraping
+Selenium # Browser Automation
+Scrapy # Web Crawling and Scraping
+
+# Machine Learning Python Libraries 
+
+LightGBM # Gradient Boosting Framework for Machine Learning
+XGBoost # Scalable and Accurate Boosting for Machine Learning
+Prophet # Facebook data forecasting
+
+# Deep Learning
+
+TensorFlow # End-to-End Open-Source Platform for Deep Learning
+PyTorch # Deep Learning Framework with Dynamic Computation Graphs
+Keras # High-Level Deep Learning API
+
+# Natural Language Processing
+
+NLTK # Natural Language Processing Toolkit
+spaCy # Industrial-Strength Natural Language Processing
+Hugging Face Transformers # Pre-trained Models for Natural Language Processing
+
+# Excel File Handling
+openpyxl # Excel File Handling
+xlrd # Excel File Reading
+
+# Jupyter Ecosystem
+notebook # Jupyter Notebook Interface
+ipykernel # IPython Kernel for Jupyter
+nbconvert # Jupyter Notebook Conversion

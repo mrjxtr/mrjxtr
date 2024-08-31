@@ -1,0 +1,85 @@
+# Staple Python Libraries for Data Science
+
+Pandas # Data Manipulation and Analysis
+NumPy # Numerical Computing
+SciPy # Scientific Computing
+Scikit-Learn # Machine Learning
+Matplotlib # 2D Plotting and Data Visualization
+Seaborn # Statistical Data Visualization
+Plotly # Interactive Data Visualization
+
+# Additional but Less Common Libraries
+
+GGplot # Data Visualization with Grammar of Graphics
+Statsmodels # Statistical Modeling
+
+
+# Web Scraping
+
+BeautifulSoup # HTML and XML Parsing for Web Scraping
+Requests # HTTP Requests and Web Scraping
+Selenium # Browser Automation
+Scrapy # Web Crawling and Scraping
+
+# Machine Learning Python Libraries 
+
+LightGBM # Gradient Boosting Framework for Machine Learning
+XGBoost # Scalable and Accurate Boosting for Machine Learning
+CatBoost # High-Performance Gradient Boosting for Categorical Data
+Optuna # Hyperparameter Optimization Framework
+Prophet # Facebook data forecasting
+
+# Deep Learning
+
+TensorFlow # End-to-End Open-Source Platform for Deep Learning
+PyTorch # Deep Learning Framework with Dynamic Computation Graphs
+Keras # High-Level Deep Learning API
+
+# Natural Language Processing
+
+NLTK # Natural Language Processing Toolkit
+spaCy # Industrial-Strength Natural Language Processing
+Hugging Face Transformers # Pre-trained Models for Natural Language Processing
+
+# Alternative Libraries
+
+Altair # Declarative Visualization Library for Interactive Data Visualization
+Bokeh # Interactive Visualization Library for Creating Browser-Based Plots
+Dask # Parallel Computing Library for Scaling Python Workloads, Including Pandas
+
+# Specialized Libraries for GPU-Accelerated Tasks
+
+RAPIDS.AI cuDF and cuML # GPU-Accelerated Machine Learning
+
+# Useful but Less Widely Used AutoML Libraries
+
+TPOT # Genetic Programming-Based AutoML
+PyCaret # Low-Code Machine Learning Library for AutoML
+H2O # Scalable Machine Learning and AutoML Platform
+Auto-sklearn # Automated Machine Learning with Scikit-Learn
+FLAML # Lightweight AutoML Library
+
+# More Specialized and Less Commonly Used Deep Learning Libraries
+
+FastAI # Deep Learning Library with Pre-built Models
+PyTorch Lightning # Scalable Deep Learning Research Framework
+Theano # Mathematical Computation Library for Deep Learning
+
+# Additional Natural Language Processing Libraries
+
+Gensim # Topic Modeling and Document Similarity Analysis
+
+#AI and ML Libraries
+
+OpenAI # Access to OpenAI's API for Generating Text, Code, and More
+dotenv # Manage Environment Variables for AI Workflows
+LangChain # Framework for Developing Applications with LLMs
+Gradio # Create User Interfaces for Machine Learning Models
+Streamlit # Turn Data Scripts into Shareable Web Apps for Data Science and Machine Learning
+Weights & Biases # Experiment Tracking, Model Management, and Visualization
+DVC # Data Version Control for Machine Learning Projects
+Hugging Face Datasets # Curated Datasets for Natural Language Processing Tasks
+Sentence Transformers # Sentence and Text Embeddings for NLP
+Ultralytics YOLO # Real-Time Object Detection for Computer Vision
+FastAPI # High-Performance Web Framework for Building APIs with Python
+PyYAML # Parse YAML Files for Configuration Management in AI Projects
