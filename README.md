@@ -1,6 +1,6 @@
 # Hi there, I'm Jester Lumacad! (Mr J | @mrjxtr) 👋🏼
-### Data Analyst | Freelancer | YouTube Content Strategy, Management, and SEO Specialist
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=150&size=20&duration=7000&pause=1000&width=1000&lines=Aspiring+Data+Analyst%2C+Data+Scientist+%26+Programmer;Current+freelance+YouTube+Content+Strategist%2C+Manager%2C+%26+SEO+Specialist;Fascinated+about+everything+Data+Science+/+AI+/+ML;Aiming+to+solve+tech+problems+by+coding+AI+%26+ML+software;Let+the+journey+begin!)](https://git.io/typing-svg)
 **Welcome to my GitHub portfolio!** I'm a versatile data professional passionate about **Data Science**, **Data Analytics**, and **Creative Content Production**. My background spans diverse fields including **Data Analysis**, **Social Media Management**, **Product Management**, **Education**, **Music Production**, and **Video Editing**. I thrive in turning data into actionable insights and always love diving into new challenges!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrjxtr)
