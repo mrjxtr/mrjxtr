@@ -31,7 +31,7 @@
 
 | 🛠️ **Other Technologies & Tools** | 📚 **Python Libraries Used & Learning** |
 | :---: | :---: |
-| WSL - Docker - Conda - Powershell 7 - GitHub - DBeaver - Notion - TradingView - Slack - Discord    | Pandas - NumPy - SciPy - Matplotlib - Seaborn - Plotly - TensorFlow - Statsmodels - Scikit-Learn - BeautifulSoup - Scrapy - Selenium - PyTorch - XGBoost - Prophet - Keras |
+| WSL - Docker - Conda - Powershell 7 - Git - GitHub - DBeaver - Notion - TradingView - Slack - Discord | Pandas - NumPy - SciPy - Matplotlib - Seaborn - Plotly - TensorFlow - Statsmodels - Scikit-Learn - BeautifulSoup - Scrapy - Selenium - PyTorch - XGBoost - Prophet - Keras |
 
 ---
 
