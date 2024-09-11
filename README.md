@@ -76,7 +76,7 @@
   
 <summary>👀 view goals </summary>
 
-- **💼 Build a Data Analytics Consultation Service:** Offering personalized insights and data-driven solutions on Upwork.
+- **💼 Build a Data Analytics / AI Data Science Consultation Service:** Offering personalized insights and data-driven solutions on Upwork.
 - **📈 Become a Data Analyst and Evolve into a Data Scientist:** Focus on mastering AI, machine learning, data modeling, and predictive analysis to solve complex business problems and drive strategic decision-making.
 
 </details>
