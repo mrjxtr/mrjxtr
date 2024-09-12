@@ -27,7 +27,7 @@
   
 | **👨🏼‍💻 Programming Languages** | **📊 Data Visualization** | **📹 Video Editing** | **🎵 Music Production and Editing** | **🖼 Graphic Design** | **⏺ Recording and Streaming** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Python - SQL - R | Tableau - Power BI - Looker Studio | Adobe Premiere Pro - Capcut | FL Studio - Audacity | Adobe Photoshop - Canva | OBS
+| Python - SQL | Tableau - Power BI - Looker Studio | Adobe Premiere Pro - Capcut | FL Studio - Audacity | Adobe Photoshop - Canva | OBS
 
 | 🛠️ **Other Technologies & Tools** | 📚 **Python Libraries Used & Learning** |
 | :---: | :---: |
