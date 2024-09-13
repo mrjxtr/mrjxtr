@@ -49,7 +49,6 @@
 - **🕸 Web Scraping:** Built automated web scraping pipelines using Python, `Requests`, and `BeautifulSoup` to extract data from static websites with complex pagination structures. Developed scripts that efficiently gather data for further analysis, enabling data-driven decision-making and insights. [see repo](https://github.com/mrjxtr/Web_Scraping_Project)
 - **🧹 Data Cleaning and Manipulation:** Developed Python scripts using `Pandas` for cleaning, wrangling, and analyzing complex sales data, improving data accuracy by up to 100%. [see repo](https://github.com/mrjxtr/Tokyo_AirBnb_Project)
 - **📊 Data Visualization:** Created dynamic and interactive dashboards using tools like `Tableau`, `Matplotlib` and `Seaborn` to communicate data-driven insights effectively. [see repo](https://github.com/mrjxtr/Tokyo_AirBnb_Project)
-- **🐍 Python Scripts:** Continuously exploring Python through various projects, including automation scripts, data processing tools, and coding challenges to deepen my understanding of programming concepts and best practices. [see repo](https://github.com/mrjxtr/Personal_For_Fun_Projects)
 
 ---
 
