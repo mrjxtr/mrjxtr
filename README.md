@@ -15,10 +15,13 @@
 
 ## 🔧 **Technologies & Tools**
 
-  <div align="left">
-    <img src="https://skillicons.dev/icons?i=py,vscode,sklearn,tensorflow,mysql,powershell,bash,anaconda,git,github,docker,linux,ubuntu,windows" />
+<p align="left">
+  <a href="https://skillicons.dev"> 
+    <img src="https://skillicons.dev/icons?i=py,vscode,sklearn,tensorflow,mysql,powershell,bash" />
+    <img src="https://skillicons.dev/icons?i=anaconda,git,github,docker,linux,ubuntu,windows" />
     <img src="https://skillicons.dev/icons?i=md,obsidian,notion,pr,ps,discord,stackoverflow" />
-  </div>
+  </a>
+</p>
 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
