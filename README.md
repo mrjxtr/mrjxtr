@@ -35,6 +35,12 @@
 
 ---
 
+## 📊 **Recent Projects**
+
+- **🕸 Web Scraping:** Built automated web scraping pipelines using Python, `Requests`, and `BeautifulSoup` to extract data from static websites with complex pagination structures. Developed scripts that efficiently gather data for further analysis, enabling data-driven decision-making and insights. [see repo](https://github.com/mrjxtr/Web_Scraping_Project)
+- **🧹 Data Cleaning and Manipulation:** Developed Python scripts using `Pandas` for cleaning, wrangling, and analyzing complex sales data, improving data accuracy by up to 100%. [see repo](https://github.com/mrjxtr/Tokyo_AirBnb_Project)
+- **📊 Data Visualization:** Created dynamic and interactive dashboards using tools like `Tableau`, `Matplotlib` and `Seaborn` to communicate data-driven insights effectively. [see repo](https://github.com/mrjxtr/Tokyo_AirBnb_Project)
+
 ## 📜 **Certifications**
 
 | Certificate | Badge |
@@ -42,13 +48,6 @@
 | 📃 **[Google Data Analytics Professional Certificate](https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/Coursera%20T2UI8QFOSZ4I.pdf)** | <details><summary>👀 see badge</summary><img src="https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/google-data-analytics-professional-certificate.2.png" alt="Credly Verified" width="125" height="auto"></details> |
 | 📃 **[Data Analytics Bootcamp Certificate](https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/Data%20Analytics%20Bootcamp%20Certificate.png)** | <details><summary>👀 see badge</summary><img src="https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/Verified%20Analytics%20Bootcamp%20Certification.png" alt="BY: ALEXANDER BREGERG" width="125" height="auto"></details> |
 | 📃 **[Microsoft Office Specialist Certificate](https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/Cert780122712425.pdf)** |  |
-
-
-## 📊 **Recent Projects**
-
-- **🕸 Web Scraping:** Built automated web scraping pipelines using Python, `Requests`, and `BeautifulSoup` to extract data from static websites with complex pagination structures. Developed scripts that efficiently gather data for further analysis, enabling data-driven decision-making and insights. [see repo](https://github.com/mrjxtr/Web_Scraping_Project)
-- **🧹 Data Cleaning and Manipulation:** Developed Python scripts using `Pandas` for cleaning, wrangling, and analyzing complex sales data, improving data accuracy by up to 100%. [see repo](https://github.com/mrjxtr/Tokyo_AirBnb_Project)
-- **📊 Data Visualization:** Created dynamic and interactive dashboards using tools like `Tableau`, `Matplotlib` and `Seaborn` to communicate data-driven insights effectively. [see repo](https://github.com/mrjxtr/Tokyo_AirBnb_Project)
 
 ---
 
