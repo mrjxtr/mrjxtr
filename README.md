@@ -18,8 +18,8 @@
 <p align="left">
   <a href="https://skillicons.dev"> 
     <img src="https://skillicons.dev/icons?i=py,vscode,sklearn,tensorflow,mysql,powershell,bash" />
-    <img src="https://skillicons.dev/icons?i=anaconda,git,github,docker,linux,ubuntu,windows" />
-    <img src="https://skillicons.dev/icons?i=md,obsidian,notion,pr,ps,discord,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=anaconda,git,github" />
+    <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,windows,md,obsidian,notion,pr,ps,discord,stackoverflow" />
   </a>
 </p>
 
