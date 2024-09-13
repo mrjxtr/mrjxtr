@@ -15,15 +15,15 @@
 
 ## 🔧 **Technologies & Tools**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=py,vscode,sklearn,tensorflow,mysql,powershell,bash,anaconda,git,github,docker,linux,ubuntu,windows" />
+    <img src="https://skillicons.dev/icons?i=md,obsidian,notion,pr,ps,discord,stackoverflow" />
+  </div>
+
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
-![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Obsidian](https://img.shields.io/badge/-Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
   
 | **👨🏼‍💻 Programming Languages** | **📊 Data Visualization** | **📹 Video Editing** | **🎵 Music Production and Editing** | **🖼 Graphic Design** | **⏺ Recording and Streaming** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -31,7 +31,7 @@
 
 | 🛠️ **Other Technologies & Tools** | 📚 **Python Libraries Used & Learning** |
 | :---: | :---: |
-| Git - GitHub - Powershell 7 - Conda - DBeaver - WSL - Docker - Notion - Slack - Discord - TradingView | Pandas - NumPy - SciPy - Matplotlib - Seaborn - Plotly - TensorFlow - Statsmodels - Scikit-Learn - BeautifulSoup - Scrapy - Selenium - PyTorch - XGBoost - Prophet - Keras |
+| DBeaver - WSL - Notion - Slack - TradingView | Pandas - NumPy - SciPy - Matplotlib - Seaborn - Plotly - TensorFlow - Statsmodels - Scikit-Learn - BeautifulSoup - Scrapy - Selenium - PyTorch - XGBoost - Prophet - Keras |
 
 ---
 
