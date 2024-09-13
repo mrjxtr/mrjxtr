@@ -46,10 +46,6 @@
 
 ## 📊 **Recent Projects**
 
-<details>
-
-<summary>👀 see details </summary>
-
 - **🕸 Web Scraping:** Built automated web scraping pipelines using Python, `Requests`, and `BeautifulSoup` to extract data from static websites with complex pagination structures. Developed scripts that efficiently gather data for further analysis, enabling data-driven decision-making and insights. [see repo](https://github.com/mrjxtr/Web_Scraping_Project)
 - **🧹 Data Cleaning and Manipulation:** Developed Python scripts using `Pandas` for cleaning, wrangling, and analyzing complex sales data, improving data accuracy by up to 100%. [see repo](https://github.com/mrjxtr/Tokyo_AirBnb_Project)
 - **📊 Data Visualization:** Created dynamic and interactive dashboards using tools like `Tableau`, `Matplotlib` and `Seaborn` to communicate data-driven insights effectively. [see repo](https://github.com/mrjxtr/Tokyo_AirBnb_Project)
@@ -57,16 +53,12 @@
 
 ---
 
-</details>
-
 ### 🌱 **Currently Learning**
 
 <details>
   
 <summary>👀 view topics </summary>
 
-- 🚀 **Advanced Visualization Techniques:** Mastering Tableau while learning Power BI and Looker Studio to craft compelling, interactive data stories that drive actionable insights across diverse platforms.
-- 🌐 **Web Scraping:** Developing advanced skills in extracting, parsing, and analyzing data from dynamic and complex web sources using Python libraries like BeautifulSoup, Scrapy, and Selenium, to gather valuable datasets for analysis.
 - 🧠 **AI, Machine Learning & Data Science:** Building expertise in machine learning algorithms, data modeling, and statistical analysis to develop software solutions that solve real-world problems and enable data-driven decision-making, while also learning R.
 
 </details>
