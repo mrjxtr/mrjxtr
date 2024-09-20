@@ -13,6 +13,15 @@
 
 ---
 
+## 📊 **Recent Projects**
+
+- **🔮 [Machine Learning Forecasting Model](https://github.com/mrjxtr/Bike_Rental_Deman_Forecasting_Model):** Built a time series forecasting model using `Scikit-learn`'s `RandomForestRegressor` using `GridSearchCV` to calibrate hyperparameters and `mean_squared_error` and `r2_score` for metrics to predict sales trends for a retail dataset.
+- **🕸 [Web Scraping](https://github.com/mrjxtr/Web_Scraping_Project):** Built automated web scraping pipelines using Python, `Requests`, and `BeautifulSoup` to extract data from static websites with complex pagination structures.
+- **🧹 [Data Cleaning and Processing](https://github.com/mrjxtr/Tokyo_AirBnb_Project):** Developed Python scripts using `Pandas` for cleaning, wrangling, and analyzing complex sales data, improving data accuracy by up to 100%.
+- **📊 [Data Visualization](https://github.com/mrjxtr/Tokyo_AirBnb_Project):** Created dynamic and interactive dashboards using tools like `Tableau`, `Matplotlib` and `Seaborn` to communicate data-driven insights effectively.
+
+---
+
 ## 🔧 **Technologies & Tools**
 
 <p align="left">
@@ -38,13 +47,6 @@
 
 ---
 
-## 📊 **Recent Projects**
-
-- **🔮 Machine Learning Forecasting Model:** Built a time series forecasting model using `Scikit-learn`'s `RandomForestRegressor` using `GridSearchCV` to calibrate hyperparameters and `mean_squared_error` and `r2_score` for metrics to predict sales trends for a retail dataset. The model accounted for seasonality, and holidays among other categories, achieving a high degree of accuracy with an R2 score of 79 and a low RMSE score. [see repo](https://github.com/mrjxtr/Bike_Rental_Deman_Forecasting_Model)
-- **🕸 Web Scraping:** Built automated web scraping pipelines using Python, `Requests`, and `BeautifulSoup` to extract data from static websites with complex pagination structures. Developed scripts that efficiently gather data for further analysis, enabling data-driven decision-making and insights. [see repo](https://github.com/mrjxtr/Web_Scraping_Project)
-- **🧹 Data Cleaning and Manipulation:** Developed Python scripts using `Pandas` for cleaning, wrangling, and analyzing complex sales data, improving data accuracy by up to 100%. [see repo](https://github.com/mrjxtr/Tokyo_AirBnb_Project)
-- **📊 Data Visualization:** Created dynamic and interactive dashboards using tools like `Tableau`, `Matplotlib` and `Seaborn` to communicate data-driven insights effectively. [see repo](https://github.com/mrjxtr/Tokyo_AirBnb_Project)
-
 ## 📜 **Certifications**
 
 | Certificate | Badge |
@@ -61,7 +63,7 @@
   
 <summary>👀 view topics </summary>
 
-- 🧠 **AI, Machine Learning & Data Science:** Building expertise in machine learning algorithms, data modeling, and statistical analysis to develop software solutions that solve real-world problems and enable data-driven decision-making, while also learning R.
+- 🧠 **Data Science, AI, & Development:** Building expertise in AI engineering, machine learning algorithms, data modeling, and statistical analysis to develop software solutions that solve real-world problems and enable data-driven decision-making, while also learning R.
 
 </details>
 
