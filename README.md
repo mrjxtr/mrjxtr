@@ -17,8 +17,8 @@
 
 - **🔮 [Machine Learning Forecasting Model](https://github.com/mrjxtr/Bike_Rental_Deman_Forecasting_Model):** Built a time series forecasting model using `Scikit-learn`'s `RandomForestRegressor` using `GridSearchCV` to calibrate hyperparameters and `mean_squared_error` and `r2_score` for metrics to predict sales trends for a retail dataset.
 - **🕸 [Web Scraping](https://github.com/mrjxtr/Web_Scraping_Project):** Built automated web scraping pipelines using Python, `Requests`, and `BeautifulSoup` to extract data from static websites with complex pagination structures.
-- **🧹 [Data Cleaning and Processing](https://github.com/mrjxtr/Tokyo_AirBnb_Project):** Developed Python scripts using `Pandas` for cleaning, wrangling, and analyzing complex sales data, improving data accuracy by up to 100%.
-- **📊 [Data Visualization](https://github.com/mrjxtr/Tokyo_AirBnb_Project):** Created dynamic and interactive dashboards using tools like `Tableau`, `Matplotlib` and `Seaborn` to communicate data-driven insights effectively.
+- **🧹 [Data Cleaning and Processing](https://github.com/mrjxtr/Tokyo_AirBnb_Analysis_Project):** Developed Python scripts using `Pandas` for cleaning, wrangling, and analyzing complex sales data, improving data accuracy by up to 100%.
+- **📊 [Data Visualization](https://github.com/mrjxtr/Tokyo_AirBnb_Analysis_Project):** Created dynamic and interactive dashboards using tools like `Tableau`, `Matplotlib` and `Seaborn` to communicate data-driven insights effectively.
 
 ---
 
