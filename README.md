@@ -40,17 +40,21 @@ I'm a versatile data professional and freelancer passionate about **Data Analyti
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Python - SQL | Tableau - Matplotlib - Seaborn | Adobe Premiere Pro - Capcut | FL Studio - Audacity | Adobe Photoshop - Canva | OBS
 
-| 🛠️ **Other Technologies & Tools** | 📚 **Python Libraries Used & Learning** |
+| 🛠️ **Other Technologies & Tools** | 📚 **Python Libraries Used & Learning** | 
 | :---: | :---: |
 | DBeaver - WSL - Notion - Slack - TradingView | Pandas - NumPy - SciPy - Matplotlib - Seaborn - Plotly - TensorFlow - Statsmodels - Scikit-Learn - BeautifulSoup - Scrapy - Selenium - PyTorch - XGBoost - Prophet - Keras |
+
+
+
+
 
 ---
 
 ## 📜 **Certifications**
 
-| Certificate | Badge |
-|-------------|---------|
-| 📃 **[Google Data Analytics Professional Certificate](https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/Coursera%20T2UI8QFOSZ4I.pdf)** | <details><summary>👀 see badge</summary><img src="https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/google-data-analytics-professional-certificate.2.png" alt="Credly Verified" width="125" height="auto"></details> |
+| Certificate | Badge | 📈 **Stats** |
+|-------------|---------| :---: |
+| 📃 **[Google Data Analytics Professional Certificate](https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/Coursera%20T2UI8QFOSZ4I.pdf)** | <details><summary>👀 see badge</summary><img src="https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/google-data-analytics-professional-certificate.2.png" alt="Credly Verified" width="125" height="auto"></details> | ![MrJxtr's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjxtr&theme=radical&layout=compact) |
 | 📃 **[Data Analytics Bootcamp Certificate](https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/Data%20Analytics%20Bootcamp%20Certificate.png)** | <details><summary>👀 see badge</summary><img src="https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/Verified%20Analytics%20Bootcamp%20Certification.png" alt="BY: ALEXANDER BREGERG" width="125" height="auto"></details> |
 | 📃 **[Microsoft Office Specialist Certificate](https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/Cert780122712425.pdf)** |  |
 
