@@ -40,7 +40,7 @@ I'm a versatile data professional and freelancer passionate about **Data Analyti
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Python - SQL | Tableau - Matplotlib - Seaborn | Adobe Premiere Pro - Capcut | FL Studio - Audacity | Adobe Photoshop - Canva | OBS
 
-| 🛠️ **Other Technologies & Tools** | 📚 **Python Libraries Used & Learning** | 
+| 🛠️ **Other Technologies & Tools** | 📚 **Python Libraries (Used & Learning)** | 
 | :---: | :---: |
 | DBeaver - WSL - Notion - Slack - TradingView | Pandas - NumPy - SciPy - Matplotlib - Seaborn - Plotly - TensorFlow - Statsmodels - Scikit-Learn - BeautifulSoup - Scrapy - Selenium - PyTorch - XGBoost - Prophet - Keras |
 
