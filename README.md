@@ -15,6 +15,7 @@ I'm a versatile data professional and freelancer passionate about **Data Analyti
 
 ## 📊 **Recent Projects**
 
+- **🤖 [Mr-Myter (Automated Mass YouTube Uploader)](https://github.com/mrjxtr/mr-myter):** Developed an automated Python tool for bulk YouTube uploads, designed to save time by automating video and thumbnail uploads. It uses `Selenium WebDriver` to simulate actions in YouTube Studio, streamlining the upload process for content creators.
 - **📊 [Data Extractor with LLM Parsing](https://github.com/mrjxtr/Data_Extractor_LLM_Parser_Project):** Developed a Python-based tool that scrapes clinical trial data from a specified website, processes it using an LLM via OpenRouter API, and exports the results to CSV. The project includes customizable scraping, real-time feedback, and modular design, simplifying data extraction and analysis for researchers.
 - **🔮 [Machine Learning Forecasting Model](https://github.com/mrjxtr/Bike_Rental_Deman_Forecasting_Model):** Built a time series forecasting model using `Scikit-learn`'s `RandomForestRegressor` using `GridSearchCV` to calibrate hyperparameters and `mean_squared_error` and `r2_score` for metrics to predict sales trends for a retail dataset.
 - **🕸 [Web Scraping](https://github.com/mrjxtr/Web_Scraping_Project):** Built automated web scraping pipelines using Python, `Requests`, and `BeautifulSoup` to extract data from static websites with complex pagination structures.
