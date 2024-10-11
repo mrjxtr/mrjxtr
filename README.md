@@ -52,11 +52,15 @@ I'm a versatile data professional and freelancer passionate about **Data Analyti
 
 ## 📜 **Certifications**
 
+<div align="center" style="max-width: 800px;">
+
 | Certificate | Badge |
 |-------------|---------|
 | 📃 **[Google Data Analytics Professional Certificate](https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/Coursera%20T2UI8QFOSZ4I.pdf)** | <details><summary>👀 see badge</summary><img src="https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/google-data-analytics-professional-certificate.2.png" alt="Credly Verified" width="125" height="auto"></details> |
 | 📃 **[Data Analytics Bootcamp Certificate](https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/Data%20Analytics%20Bootcamp%20Certificate.png)** | <details><summary>👀 see badge</summary><img src="https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/Verified%20Analytics%20Bootcamp%20Certification.png" alt="BY: ALEXANDER BREGERG" width="125" height="auto"></details> |
 | 📃 **[Microsoft Office Specialist Certificate](https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/Cert780122712425.pdf)** |  |
+
+</div>
 
 ---
 
@@ -77,26 +81,13 @@ I'm a versatile data professional and freelancer passionate about **Data Analyti
 
 ---
 
-### 🌱 **Currently Learning**
+<div align="center" style="max-width: 800px;">
 
-<details>
-  
-<summary>👀 view topics </summary>
+| 🌱 **Currently Learning** | 🎯 **Goals** |
+| --- | --- |
+| <details> <summary>👀 view topics </summary> - 🧠 **Data Science, AI, & Development:** Building expertise in AI engineering, machine learning algorithms, data modeling, and statistical analysis to develop software solutions that solve real-world problems and enable data-driven decision-making, while also learning R. </details> | <details> <summary>👀 view goals </summary> - **💼 Build a Data Analytics / AI Data Science Consultation Service:** Offering personalized insights and data-driven solutions on Upwork. - **📈 Become a Data Analyst and Evolve into a Data Scientist:** Focus on mastering AI, machine learning, data modeling, and predictive analysis to solve complex business problems and drive strategic decision-making. </details> |
 
-- 🧠 **Data Science, AI, & Development:** Building expertise in AI engineering, machine learning algorithms, data modeling, and statistical analysis to develop software solutions that solve real-world problems and enable data-driven decision-making, while also learning R.
-
-</details>
-
-### 🎯 **Goals**
-
-<details>
-  
-<summary>👀 view goals </summary>
-
-- **💼 Build a Data Analytics / AI Data Science Consultation Service:** Offering personalized insights and data-driven solutions on Upwork.
-- **📈 Become a Data Analyst and Evolve into a Data Scientist:** Focus on mastering AI, machine learning, data modeling, and predictive analysis to solve complex business problems and drive strategic decision-making.
-
-</details>
+</div>
 
 ---
 
