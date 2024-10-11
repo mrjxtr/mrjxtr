@@ -62,10 +62,10 @@ I'm a versatile data professional and freelancer passionate about **Data Analyti
 
 <div align="center">
   <a href="https://github.com/mrjxtr?tab=repositories">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mrjxtr&theme=apprentice&rank_icon=percentile&show_icons=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mrjxtr&theme=apprentice&hide_rank=true&show_icons=true" />
   </a>
   <a href="https://github.com/mrjxtr?tab=repositories">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjxtr&size_weight=0&count_weight=20&theme=apprentice&layout=compact&langs_count=4&card_width=335" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjxtr&size_weight=0&count_weight=20&theme=apprentice&layout=compact&langs_count=4&card_width=270" />
   </a>
   <a href="https://github.com/mrjxtr/Data_Extractor_LLM_Parser_Project">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrjxtr&repo=Data_Extractor_LLM_Parser_Project&theme=apprentice&show_owner=true&description_lines_count=3" />
