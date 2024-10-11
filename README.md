@@ -52,11 +52,27 @@ I'm a versatile data professional and freelancer passionate about **Data Analyti
 
 ## 📜 **Certifications**
 
-| Certificate | Badge | 📈 **Stats** |
-|-------------|---------| :---: |
-| 📃 **[Google Data Analytics Professional Certificate](https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/Coursera%20T2UI8QFOSZ4I.pdf)** | <details><summary>👀 see badge</summary><img src="https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/google-data-analytics-professional-certificate.2.png" alt="Credly Verified" width="125" height="auto"></details> | ![MrJxtr's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrjxtr&theme=radical&layout=compact) |
+| Certificate | Badge |
+|-------------|---------|
+| 📃 **[Google Data Analytics Professional Certificate](https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/Coursera%20T2UI8QFOSZ4I.pdf)** | <details><summary>👀 see badge</summary><img src="https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/google-data-analytics-professional-certificate.2.png" alt="Credly Verified" width="125" height="auto"></details> |
 | 📃 **[Data Analytics Bootcamp Certificate](https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/Data%20Analytics%20Bootcamp%20Certificate.png)** | <details><summary>👀 see badge</summary><img src="https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/Verified%20Analytics%20Bootcamp%20Certification.png" alt="BY: ALEXANDER BREGERG" width="125" height="auto"></details> |
 | 📃 **[Microsoft Office Specialist Certificate](https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/Cert780122712425.pdf)** |  |
+
+---
+
+<a href="https://github.com/mrjxtr?tab=repositories">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mrjxtr&theme=apprentice&card_width=300&rank_icon=percentile" />
+</a>
+<a href="https://github.com/mrjxtr?tab=repositories">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjxtr&size_weight=0&count_weight=20&theme=apprentice&layout=compact&langs_count=4&card_width=300" />
+</a>
+
+<a href="https://github.com/mrjxtr/Data_Extractor_LLM_Parser_Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrjxtr&repo=Data_Extractor_LLM_Parser_Project&theme=apprentice&show_owner=true" />
+</a>
+<a href="https://github.com/mrjxtr/Tokyo_AirBnb_Analysis_Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrjxtr&repo=Tokyo_AirBnb_Analysis_Project&theme=apprentice&show_owner=true" />
+</a>
 
 ---
 
