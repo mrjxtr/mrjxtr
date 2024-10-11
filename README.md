@@ -60,19 +60,20 @@ I'm a versatile data professional and freelancer passionate about **Data Analyti
 
 ---
 
-<a href="https://github.com/mrjxtr?tab=repositories">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mrjxtr&theme=apprentice&card_width=250&rank_icon=percentile" />
-</a>
-<a href="https://github.com/mrjxtr?tab=repositories">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjxtr&size_weight=0&count_weight=20&theme=apprentice&layout=compact&langs_count=4&card_width=250" />
-</a>
-
-<a href="https://github.com/mrjxtr/Data_Extractor_LLM_Parser_Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrjxtr&repo=Data_Extractor_LLM_Parser_Project&theme=apprentice&show_owner=true" />
-</a>
-<a href="https://github.com/mrjxtr/Tokyo_AirBnb_Analysis_Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrjxtr&repo=Tokyo_AirBnb_Analysis_Project&theme=apprentice&show_owner=true" />
-</a>
+<div align="center">
+  <a href="https://github.com/mrjxtr?tab=repositories">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mrjxtr&theme=apprentice&rank_icon=percentile&show_icons=true" />
+  </a>
+  <a href="https://github.com/mrjxtr?tab=repositories">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjxtr&size_weight=0&count_weight=20&theme=apprentice&layout=compact&langs_count=4&card_width=335" />
+  </a>
+  <a href="https://github.com/mrjxtr/Data_Extractor_LLM_Parser_Project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrjxtr&repo=Data_Extractor_LLM_Parser_Project&theme=apprentice&show_owner=true&description_lines_count=3" />
+  </a>
+  <a href="https://github.com/mrjxtr/Tokyo_AirBnb_Analysis_Project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrjxtr&repo=Tokyo_AirBnb_Analysis_Project&theme=apprentice&show_owner=true&description_lines_count=3" />
+  </a>
+</div>
 
 ---
 
