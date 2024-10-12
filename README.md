@@ -91,6 +91,8 @@ I'm a versatile data professional and freelancer passionate about **Data Analyti
 | --- | --- | --- |
 | <details> <summary>👀 view topics </summary> - 🧠 **Data Science, AI, & Development:** Building expertise in AI engineering, machine learning algorithms, data modeling, and statistical analysis to develop software solutions that solve real-world problems and enable data-driven decision-making, while also learning R. </details> | <details> <summary>👀 view goals </summary> - **💼 Build a Data Analytics / AI Data Science Consultation Service:** Offering personalized insights and data-driven solutions on Upwork. <br/>- **📈 Become a Data Analyst and Evolve into a Data Scientist:** Focus on mastering AI, machine learning, data modeling, and predictive analysis to solve complex business problems and drive strategic decision-making. </details> | <details> <summary>👀 view ongoing projects </summary> - 🤖 **[Mr-Myter (Mass YouTube Uploader)](https://github.com/mrjxtr/mr-myter):** Creating a bot that will automatically upload YouTube Videos in bulk. <br/> - 🧠  **[LLM Report Generator](https://github.com/mrjxtr/LLM_Report_Generator):** Creating a digital product powered by LLMs to generate comprehensive reports based on input data </details> |
 
+</div>
+
 ---
 
 Thank you for stopping by! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. I'm always open to connecting with like-minded individuals!
