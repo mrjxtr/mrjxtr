@@ -27,9 +27,11 @@ I'm a versatile data professional and freelancer passionate about **Data Analyti
 
 <p align="center">
   <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=py,vscode,sklearn,tensorflow,mysql,powershell,bash" />
-    <img src="https://skillicons.dev/icons?i=anaconda,git,github" />
-    <img src="https://skillicons.dev/icons?i=docker,linux,windows,md,obsidian,notion,pr,ps,discord,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,html,css,flask,django,fastapi" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=vscode,powershell,anaconda,bash,mysql,docker,git,github,stackoverflow" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=windows,linux,pr,ps,md,obsidian,notion,discord" />
   </a>
 </p>
 
