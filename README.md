@@ -44,13 +44,13 @@ I'm a versatile data professional and freelancer passionate about **Data Analyti
   
 | **👨🏼‍💻 Programming Languages** | **📊 Data Visualization** | **📹 Video Editing** | **🎵 Music Production and Editing** | **🖼 Graphic Design** | **⏺ Recording and Streaming** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Python - SQL | Tableau - Matplotlib - Seaborn | Adobe Premiere Pro - Capcut | FL Studio - Audacity | Adobe Photoshop - Canva | OBS
+| Python - SQL - HTML - CSS | Tableau - Matplotlib - Seaborn | Adobe Premiere Pro - Capcut | FL Studio - Audacity | Adobe Photoshop - Canva | OBS
 
 <div align="center">
 
-| 🛠️ **Other Technologies & Tools** | 📚 **Python Libraries (Used & Learning)** | 
-| :---: | :---: |
-| - DBeaver - WSL </br> - Notion - Slack </br> - TradingView | Pandas - NumPy - SciPy - Statsmodels </br> - Matplotlib - Seaborn - Plotly </br> - TensorFlow - Keras - Scikit-Learn - PyTorch - XGBoost - Prophet </br> - BeautifulSoup - Scrapy - Selenium |
+| 🛠️ **Other Technologies & Tools** | 📚 **Python Libraries (Used & Learning)** | 📚 **Web Frameworks(Learning)** |
+| :---: | :---: | :---: |
+| - DBeaver - WSL </br> - Notion - Slack </br> - TradingView | Pandas - NumPy - SciPy - Statsmodels </br> - Matplotlib - Seaborn - Plotly </br> - TensorFlow - Keras - Scikit-Learn - PyTorch - XGBoost - Prophet </br> - BeautifulSoup - Scrapy - Selenium | - Flask - FastAPI - Django
 
 </div>
 
