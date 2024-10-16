@@ -52,7 +52,7 @@ I'm a versatile data professional and freelancer passionate about **Data Analyti
 
 | 🛠️ **Other Technologies & Tools** | 📚 **Python Libraries (Used & Learning)** | 📚 **Web Frameworks(Learning)** |
 | :---: | :---: | :---: |
-| - DBeaver - WSL </br> - Notion - Slack </br> - TradingView | Pandas - NumPy - SciPy - Statsmodels </br> - Matplotlib - Seaborn - Plotly </br> - TensorFlow - Keras - PyTorch - Scikit-Learn </br> - BeautifulSoup - Scrapy - Selenium | - Flask - FastAPI - Django
+| - DBeaver - WSL </br> - Notion - Slack </br> - TradingView | Pandas - NumPy - SciPy - Statsmodels </br> - Matplotlib - Seaborn - Plotly </br> - TensorFlow - Keras - PyTorch - Scikit-Learn </br> - BeautifulSoup - Selenium | - Flask - FastAPI - Django
 
 </div>
 
