@@ -16,11 +16,9 @@ I'm a versatile data professional and freelancer passionate about **Data Analyti
 
 ## ⚒ **Recent Projects**
 
-- **🤖 [Mr-Myter (Automated Mass YouTube Uploader)](https://github.com/mrjx-dev/mr-myter):** <Details><summary> 👀 show summary </summary> Developed an automated Python tool for bulk YouTube uploads. Designed to save time by automating video and thumbnail uploads, It uses `Selenium WebDriver` to simulate actions in YouTube Studio, streamlining the upload process for content creators. </Details>
-- **📊 [Data Extractor with LLM Parsing](https://github.com/mrjxtr/Data_Extractor_LLM_Parser_Project):** <Details><summary> 👀 show summary </summary> Developed a Python-based tool that scrapes clinical trial data from a specified website, processes it using an LLM via OpenRouter API, and exports the results to CSV. The project includes customizable scraping, real-time feedback, and modular design, simplifying data extraction and analysis for researchers. </Details>
-- **🔮 [Machine Learning Forecasting Model](https://github.com/mrjxtr/Bike_Rental_Deman_Forecasting_Model):** <Details><summary> 👀 show summary </summary> Built a time series forecasting model using `Scikit-learn`'s `RandomForestRegressor` using `GridSearchCV` to calibrate hyperparameters and `mean_squared_error` and `r2_score` for metrics to predict sales trends for a retail dataset. </Details>
-- **📊 [Data Cleaning, Processing, Analysis, and Visualization](https://github.com/mrjxtr/Tokyo_AirBnb_Analysis_Project):** <Details><summary> 👀 show summary </summary> Developed Python scripts using `Pandas` for cleaning and analyzing complex sales data, improving data accuracy by up to 100%. Additionally, created dynamic, interactive dashboards using `Tableau`, `Matplotlib`, and `Seaborn` to effectively communicate data-driven insights. </Details>
----
+| **🤖 [Mr-Myter (Automated Mass YouTube Uploader)](https://github.com/mrjx-dev/mr-myter)** | **📊 [Data Extractor with LLM Parsing](https://github.com/mrjxtr/Data_Extractor_LLM_Parser_Project)** | **🔮 [Machine Learning Forecasting Model](https://github.com/mrjxtr/Bike_Rental_Deman_Forecasting_Model)** | **📊 [Data Cleaning, Processing, Analysis, and Visualization](https://github.com/mrjxtr/Tokyo_AirBnb_Analysis_Project)** |
+| --- | --- | --- | --- |
+| <Details><summary> 👀 show summary </summary> Developed an automated Python tool for bulk YouTube uploads. Designed to save time by automating video and thumbnail uploads, It uses `Selenium WebDriver` to simulate actions in YouTube Studio, streamlining the upload process for content creators. </Details> | <Details><summary> 👀 show summary </summary> Developed an automated Python tool for bulk YouTube uploads. Designed to save time by automating video and thumbnail uploads, It uses `Selenium WebDriver` to simulate actions in YouTube Studio, streamlining the upload process for content creators. </Details> | <Details><summary> 👀 show summary </summary> Built a time series forecasting model using `Scikit-learn`'s `RandomForestRegressor` using `GridSearchCV` to calibrate hyperparameters and `mean_squared_error` and `r2_score` for metrics to predict sales trends for a retail dataset. </Details> | <Details><summary> 👀 show summary </summary> Developed Python scripts using `Pandas` for cleaning and analyzing complex sales data, improving data accuracy by up to 100%. Additionally, created dynamic, interactive dashboards using `Tableau`, `Matplotlib`, and `Seaborn` to effectively communicate data-driven insights. </Details> |
 
 ## 🔧 **Technologies & Tools**
 
@@ -29,7 +27,7 @@ I'm a versatile data professional and freelancer passionate about **Data Analyti
   <a href="https://skillicons.dev"> 
     <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,html,css,flask,django,fastapi" />
     <br>
-    <img src="https://skillicons.dev/icons?i=vscode,powershell,anaconda,bash,mysql,docker,git,github,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=vscode,neovim,powershell,anaconda,bash,mysql,docker,git,github,stackoverflow" />
     <br>
     <img src="https://skillicons.dev/icons?i=windows,linux,pr,ps,md,obsidian,notion,discord" />
   </a>
@@ -75,11 +73,9 @@ I'm a versatile data professional and freelancer passionate about **Data Analyti
 
 <div align="center" style="max-width: 800px;">
 
-| Certificates | Badges |
-|-------------|---------|
-| 📃 **[Google Data Analytics Professional Certificate](https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/Coursera%20T2UI8QFOSZ4I.pdf)** | <details><summary>👀 see badge</summary><img src="https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/google-data-analytics-professional-certificate.2.png" alt="Credly Verified" width="125" height="auto"></details> |
-| 📃 **[Data Analytics Bootcamp Certificate](https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/Data%20Analytics%20Bootcamp%20Certificate.png)** | <details><summary>👀 see badge</summary><img src="https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/Verified%20Analytics%20Bootcamp%20Certification.png" alt="BY: ALEXANDER BREGERG" width="125" height="auto"></details> |
-| 📃 **[Microsoft Office Specialist Certificate](https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/Cert780122712425.pdf)** |  |
+| 📃 **[Google Data Analytics Professional Certificate](https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/Coursera%20T2UI8QFOSZ4I.pdf)** | 📃 **[Data Analytics Bootcamp Certificate](https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/Data%20Analytics%20Bootcamp%20Certificate.png)** | 📃 **[Microsoft Office Specialist Certificate](https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/Cert780122712425.pdf)** |
+| --- | --- | --- |
+| <details><summary>👀 see badge</summary><img src="https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/google-data-analytics-professional-certificate.2.png" alt="Credly Verified" width="125" height="auto"></details> | <details><summary>👀 see badge</summary><img src="https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/Verified%20Analytics%20Bootcamp%20Certification.png" alt="BY: ALEXANDER BREGERG" width="125" height="auto"></details> | --- |
 
 </div>
 
