@@ -31,11 +31,11 @@ I'm a versatile freelancer with a background that spans diverse fields including
 
 <p align="center">
   <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,html,css,flask,django,fastapi" />
+    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,html,css,js,bootstrap,flask,django,fastapi,heroku,selenium" />
     <br>
-    <img src="https://skillicons.dev/icons?i=vscode,neovim,powershell,anaconda,bash,mysql,docker,git,github,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=vscode,neovim,powershell,anaconda,bash,mysql,sqlite,docker,git,github,stackoverflow" />
     <br>
-    <img src="https://skillicons.dev/icons?i=windows,linux,pr,ps,md,obsidian,notion,discord" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,pr,ps,md,obsidian,notion,discord" />
   </a>
 </p>
 
@@ -50,7 +50,7 @@ I'm a versatile freelancer with a background that spans diverse fields including
   
 | **👨🏼‍💻 Programming Languages** | **📊 Data Visualization** | **📹 Video Editing** | **🎵 Music Production and Editing** | **🖼 Graphic Design** | **⏺ Recording and Streaming** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Python - SQL - HTML - CSS | Tableau - Matplotlib - Seaborn | Adobe Premiere Pro - Capcut | FL Studio - Audacity | Adobe Photoshop - Canva | OBS
+| Python - SQL - HTML - CSS - JavaScript | Tableau - Matplotlib - Seaborn | Adobe Premiere Pro - Capcut | FL Studio - Audacity | Adobe Photoshop - Canva | OBS
 
 <div align="center">
 
