@@ -35,7 +35,7 @@ I'm a versatile freelancer with a background that spans diverse fields including
     <br>
     <img src="https://skillicons.dev/icons?i=vscode,neovim,powershell,anaconda,bash,mysql,sqlite,docker,git,github,stackoverflow" />
     <br>
-    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,pr,ps,md,obsidian,notion,discord" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu,pr,ps,md,obsidian,notion,discord" />
   </a>
 </p>
 
