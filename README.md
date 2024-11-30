@@ -38,15 +38,6 @@ I'm a versatile freelancer with a background that spans diverse fields including
     <img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu,pr,ps,md,obsidian,notion,discord" />
   </a>
 </p>
-
-<div align="center">
-
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
-
-</div>
   
 | **👨🏼‍💻 Programming Languages** | **📊 Data Visualization** | **📹 Video Editing** | **🎵 Music Production and Editing** | **🖼 Graphic Design** | **⏺ Recording and Streaming** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -56,7 +47,7 @@ I'm a versatile freelancer with a background that spans diverse fields including
 
 | 🛠️ **Other Technologies & Tools** | 📚 **Python Libraries (Used & Learning)** | 📚 **Web Frameworks(Learning)** |
 | :---: | :---: | :---: |
-| - DBeaver - WSL</br>- Notion - Slack</br>- TradingView | Pandas - NumPy - SciPy - Statsmodels</br>- Matplotlib - Seaborn - Plotly</br>- TensorFlow - PyTorch - Scikit-Learn</br>- BeautifulSoup - Selenium | - Flask</br>- FastAPI</br>- Django
+| - Jupyter Notebooks - DBeaver - WSL</br>- Notion - Slack</br>- TradingView | Pandas - NumPy - SciPy - Statsmodels</br>- Matplotlib - Seaborn - Plotly</br>- TensorFlow - PyTorch - Scikit-Learn</br>- BeautifulSoup - Selenium | - Flask</br>- FastAPI</br>- Django
 
 </div>
 
