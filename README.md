@@ -26,7 +26,7 @@ I'm a versatile freelancer with a background that spans diverse fields including
 
 ---
 
-## 🔧 **Technologies & Tools**
+## 🔧 **Tech Stack**
 
 
 <p align="center">
