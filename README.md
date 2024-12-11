@@ -41,7 +41,7 @@ I'm a versatile freelancer with a background that spans diverse fields including
   
 | **👨🏼‍💻 Programming Languages** | **📊 Data Visualization** | **📹 Video Editing** | **🎵 Music Production and Editing** | **🖼 Graphic Design** | **⏺ Recording and Streaming** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| - Python</br>- SQL - HTML</br>- CSS</br>- JavaScript | - Tableau</br>- Matplotlib</br>- Seaborn | - Adobe Premiere Pro</br>- Capcut | - FL Studio</br>- Audacity | - Adobe Photoshop</br>- Canva | OBS
+| - Python - SQL</br>- HTML - CSS</br>- JavaScript | - Tableau</br>- Matplotlib</br>- Seaborn | - Adobe Premiere Pro</br>- Capcut | - FL Studio</br>- Audacity | - Adobe Photoshop</br>- Canva | OBS
 
 <div align="center">
 
