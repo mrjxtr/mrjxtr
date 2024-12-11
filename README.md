@@ -41,13 +41,13 @@ I'm a versatile freelancer with a background that spans diverse fields including
   
 | **👨🏼‍💻 Programming Languages** | **📊 Data Visualization** | **📹 Video Editing** | **🎵 Music Production and Editing** | **🖼 Graphic Design** | **⏺ Recording and Streaming** |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Python - SQL - HTML - CSS - JavaScript | Tableau - Matplotlib - Seaborn | Adobe Premiere Pro - Capcut | FL Studio - Audacity | Adobe Photoshop - Canva | OBS
+| - Python - SQL - HTML</br>- CSS - JavaScript | - Tableau</br>- Matplotlib</br>- Seaborn | - Adobe Premiere Pro</br>- Capcut | - FL Studio</br>- Audacity | - Adobe Photoshop</br>- Canva | OBS
 
 <div align="center">
 
-| 🛠️ **Other Technologies & Tools** | 📚 **Python Libraries (Used & Learning)** | 📚 **Web Frameworks(Learning)** |
+| 🛠️ **Other Technologies & Tools** | 📚 **Python Libraries (Used & Learning)** | 📚 **Web Frameworks** |
 | :---: | :---: | :---: |
-| - Jupyter Notebooks - DBeaver - WSL</br>- Notion - Slack</br>- TradingView | Pandas - NumPy - SciPy - Statsmodels</br>- Matplotlib - Seaborn - Plotly</br>- TensorFlow - PyTorch - Scikit-Learn</br>- BeautifulSoup - Selenium | - Flask</br>- FastAPI</br>- Django
+| - Jupyter Notebooks - DBeaver - WSL</br>- Notion - Slack</br>- TradingView | Pandas - NumPy - SciPy - Statsmodels</br>- Matplotlib - Seaborn - Plotly</br>- TensorFlow - PyTorch - Scikit-Learn</br>- BeautifulSoup - Selenium | - Flask</br>- Django
 
 </div>
 
