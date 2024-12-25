@@ -31,9 +31,9 @@ I'm a versatile freelancer with a background that spans diverse fields including
 
 <p align="center">
   <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow,pytorch,html,css,js,bootstrap,flask,django,fastapi,heroku,selenium" />
+    <img src="https://skillicons.dev/icons?i=py,sklearn,html,css,js,ts,nodejs,bootstrap,flask,django,heroku,selenium,lua" />
     <br>
-    <img src="https://skillicons.dev/icons?i=vscode,neovim,powershell,anaconda,bash,mysql,sqlite,docker,git,github,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=vscode,neovim,powershell,anaconda,npm,bash,mysql,sqlite,docker,git,github,stackoverflow" />
     <br>
     <img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu,pr,ps,md,obsidian,notion,discord" />
   </a>
