@@ -33,7 +33,7 @@ I'm a versatile freelancer with a background that spans diverse fields including
   <a href="https://skillicons.dev"> 
     <img src="https://skillicons.dev/icons?i=py,sklearn,html,css,js,ts,nodejs,bootstrap,flask,django,heroku,selenium,lua" />
     <br>
-    <img src="https://skillicons.dev/icons?i=vscode,neovim,powershell,anaconda,npm,bash,mysql,sqlite,docker,git,github,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=vscode,neovim,powershell,anaconda,npm,deno,bash,mysql,sqlite,git,github,stackoverflow" />
     <br>
     <img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu,pr,ps,md,obsidian,notion,discord" />
   </a>
