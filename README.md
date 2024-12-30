@@ -60,7 +60,7 @@ I'm a versatile freelancer with a background that spans diverse fields including
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mrjxtr&theme=apprentice&hide_rank=true&show_icons=true" />
   </a>
   <a href="https://github.com/mrjxtr?tab=repositories">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjxtr&size_weight=0&count_weight=2&theme=apprentice&layout=compact&langs_count=6&card_width=270&hide=Jupyter%20Notebook,Mako" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjxtr&size_weight=0&count_weight=2&theme=apprentice&layout=compact&langs_count=8&card_width=270&hide=Jupyter%20Notebook,Mako" />
   </a>
 </div>
 
