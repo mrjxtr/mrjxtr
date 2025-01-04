@@ -47,7 +47,7 @@ I'm a versatile freelancer with a background that spans diverse fields including
 
 | 🛠️ **Other Technologies & Tools** | 📚 **Python Libraries (Used & Learning)** | 📚 **Web Frameworks** |
 | :---: | :---: | :---: |
-| - Jupyter Notebooks - DBeaver - WSL</br>- Notion - Slack</br>- TradingView | Pandas - NumPy - SciPy - Statsmodels</br>- Matplotlib - Seaborn - Plotly</br>- TensorFlow - PyTorch - Scikit-Learn</br>- BeautifulSoup - Selenium | - Flask</br>- Django
+| - Jupyter Notebooks - DBeaver - WSL</br>- Notion - Slack</br>- TradingView | Pandas - NumPy - SciPy - Statsmodels</br>- Matplotlib - Seaborn - Plotly</br>- TensorFlow - PyTorch - Scikit-Learn</br>- BeautifulSoup - Selenium | - Django</br>- Flask</br>- FastApi
 
 </div>
 
