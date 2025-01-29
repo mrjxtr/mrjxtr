@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=250&size=20&duration=7000&pause=1000&width=1000&lines=Freelance+Automation+%26+Scripting%2C+Software+developer+(Python);Aspiring+AI+Software+Developer;Fascinated+about+everything+Data+Science%2C+AI+%26+Development;Aiming+to+solve+problems+through+coding+AI+software;Let+the+journey+begin!)](https://git.io/typing-svg)
 
-I'm a versatile freelancer with a background that spans diverse fields including **Data Science (AI/ML)**, **Data Analytics**, **Software Development**, **Social Media Management**, **Music Production**, and **Video Editing**.
+I'm a versatile freelancer with a background that spans diverse fields including **Full-stack Software Development**,  **Data Analytics**, **Data Science (AI/ML)**, **Social Media Management**, **Music Production**, and **Video Editing**.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrjxtr)
 [![Upwork](https://img.shields.io/badge/-Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f2fd0e74a0c5055a?mp_source=share)
@@ -38,17 +38,13 @@ I'm a versatile freelancer with a background that spans diverse fields including
     <img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu,pr,ps,md,obsidian,notion,discord" />
   </a>
 </p>
-  
-| **👨🏼‍💻 Programming Languages** | **📊 Data Visualization** | **📹 Video Editing** | **🎵 Music Production and Editing** | **🖼 Graphic Design** | **⏺ Recording and Streaming** |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| - Python - SQL</br>- HTML - CSS</br>- JavaScript | - Tableau</br>- Matplotlib</br>- Seaborn | - Adobe Premiere Pro</br>- Capcut | - FL Studio</br>- Audacity | - Adobe Photoshop</br>- Canva | OBS
 
 <div align="center">
-
-| 🛠️ **Other Technologies & Tools** | 📚 **Python Libraries (Used & Learning)** | 📚 **Web Frameworks** |
-| :---: | :---: | :---: |
-| - Jupyter Notebooks - DBeaver - WSL</br>- Notion - Slack</br>- TradingView | Pandas - NumPy - SciPy - Statsmodels</br>- Matplotlib - Seaborn - Plotly</br>- TensorFlow - PyTorch - Scikit-Learn</br>- BeautifulSoup - Selenium | - Django</br>- Flask</br>- FastApi
-
+  
+| **🖥️ Backend** | **🌐 Web Frameworks** | **🎨 Frontend** | **🖱️ GUI** |
+| :---: | :---: | :---: | :---: |
+| Python, Go | Python (Django, Flask)<br>Go(Standard Library) | HTMX, HTML (Templates), CSS (Bootstrap)<br>JavaScript, TypeScript | Python (CustomTKinter) |
+  
 </div>
 
 ---
