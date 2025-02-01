@@ -1,6 +1,6 @@
 # Hi there, I'm Jester Lumacad! (@mrjxtr | Mr J) 👋🏼 Welcome to my GitHub portfolio!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=250&size=20&duration=7000&pause=1000&width=1000&lines=Freelance+Automation+%26+Scripting%2C+Software+developer+(Python);Aspiring+AI+Software+Developer;Fascinated+about+everything+Data+Science%2C+AI+%26+Development;Aiming+to+solve+problems+through+coding+AI+software;Let+the+journey+begin!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=250&size=20&duration=5000&pause=1000&width=1000&lines=Full-Stack+Software+Developer+|+Python%2C+Go%2C+Javascript/TypeScript;API+Integration%2C+Automation+%26+Scripting%2C+Web+Development%2C+AI+%26+Analytics;Building+Awesome+Sofware+Solutions+To+Real+World+Problems)](https://git.io/typing-svg)
 
 I'm a versatile freelancer with a background that spans diverse fields including **Full-stack Software Development**,  **Data Analytics**, **Data Science (AI/ML)**, **Social Media Management**, **Music Production**, and **Video Editing**.
 
