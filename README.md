@@ -19,11 +19,11 @@ I'm a versatile freelancer with a background that spans diverse fields including
 
 <p align="center">
   <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=py,go,ts,js,htmx,html,css,bootstrap,flask,django,heroku,selenium,lua" />
+    <img src="https://skillicons.dev/icons?i=py,go,ts,htmx,html,css,bootstrap,tailwind,flask,django,fastapi,heroku" />
     <br>
-    <img src="https://skillicons.dev/icons?i=vscode,neovim,powershell,anaconda,npm,nodejs,deno,bash,mysql,sqlite,git,github,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=vscode,neovim,anaconda,nodejs,deno,mysql,sqlite,git,github" />
     <br>
-    <img src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu,pr,ps,md,obsidian,notion,discord" />
+    <img src="https://skillicons.dev/icons?i=windows,powershell,arch,bash,obsidian,notion,discord" />
   </a>
 </p>
 
