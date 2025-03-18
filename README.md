@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=250&size=20&duration=5000&pause=1000&width=1000&lines=Full-Stack+Software+Developer+|+Python%2C+Go%2C+Javascript/TypeScript;API+Integration%2C+Automation+%26+Scripting%2C+Web+Development%2C+AI+%26+Analytics;Building+Sofware+Solutions+To+Solve+Real+World+Problems)](https://git.io/typing-svg)
 
-I'm a versatile freelancer with a background that spans diverse fields including **Full-stack Software Development**,  **Data Analytics**, **Data Science (AI/ML)**, **Social Media Management**, **Music Production**, and **Video Editing**.
+I'm a versatile freelancer with a background that spans diverse fields including **Full-stack Software Development (Current Focus)**,  **Data Analytics**, **Data Science (AI/ML)**, **Social Media Management**, **Music Production**, and **Video Editing**.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrjxtr)
 [![Upwork](https://img.shields.io/badge/-Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f2fd0e74a0c5055a?mp_source=share)
@@ -21,9 +21,7 @@ I'm a versatile freelancer with a background that spans diverse fields including
   <a href="https://skillicons.dev"> 
     <img src="https://skillicons.dev/icons?i=py,go,ts,htmx,html,css,bootstrap,tailwind,flask,django,fastapi,heroku" />
     <br>
-    <img src="https://skillicons.dev/icons?i=vscode,neovim,anaconda,nodejs,deno,mysql,sqlite,git,github" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=windows,powershell,arch,bash,obsidian,notion,discord" />
+    <img src="https://skillicons.dev/icons?i=arch,bash,windows,powershell,neovim,vscode,nodejs,deno,mysql,sqlite,git,github" />
   </a>
 </p>
 
@@ -31,7 +29,7 @@ I'm a versatile freelancer with a background that spans diverse fields including
   
 | **🖥️ Backend** | **🌐 Web Frameworks** | **🎨 Frontend** | **🖱️ GUI** |
 | :---: | :---: | :---: | :---: |
-| Python, Go | Python (Django, Flask)<br>Go(Standard Library) | HTMX, HTML (Templates), CSS (Bootstrap)<br>JavaScript, TypeScript | Python (CustomTKinter) |
+| Python, Go | Python (Django, Flask),<br>Go(Standard Library) | HTMX, HTML, JavaScript/TypeScript,<br>CSS (Bootstrap/Tailwind) | Python (CustomTKinter),<br>Golang (Fyne) |
   
 </div>
 
