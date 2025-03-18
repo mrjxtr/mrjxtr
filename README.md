@@ -49,29 +49,29 @@ I'm a versatile freelancer with a background that spans diverse fields including
       />
   </a>
 </div>
-
+<!---
 ---
-
+<!---
 ## ⚒ **Recent Projects & Progress**
-
+<!---
 <div align="center" style="max-width: 800px;">
-
+<!---
 | **🤖 [Mr-Myter (Automated Mass YouTube Uploader)](https://github.com/mrjx-dev/mr-myter)** | **📊 [Data Extractor with LLM Parsing](https://github.com/mrjxtr/Data_Extractor_LLM_Parser_Project)** | **🔮 [Machine Learning Forecasting Model](https://github.com/mrjxtr/Bike_Rental_Deman_Forecasting_Model)** | **📊 [Data Cleaning, Processing, Analysis, and Visualization](https://github.com/mrjxtr/Tokyo_AirBnb_Analysis_Project)** | 🌱 **Currently Learning** | 👨🏼‍💻 **Currently Working On** |
 | --- | --- | --- | --- | --- | --- |
 | <Details><summary> 👀 show summary </summary> Developed an automated Python tool for bulk YouTube uploads. Designed to save time by automating video and thumbnail uploads, It uses `Selenium WebDriver` to simulate actions in YouTube Studio, streamlining the upload process for content creators. </Details> | <Details><summary> 👀 show summary </summary> Developed an automated Python tool for bulk YouTube uploads. Designed to save time by automating video and thumbnail uploads, It uses `Selenium WebDriver` to simulate actions in YouTube Studio, streamlining the upload process for content creators. </Details> | <Details><summary> 👀 show summary </summary> Built a time series forecasting model using `Scikit-learn`'s `RandomForestRegressor` using `GridSearchCV` to calibrate hyperparameters and `mean_squared_error` and `r2_score` for metrics to predict sales trends for a retail dataset. </Details> | <Details><summary> 👀 show summary </summary> Developed Python scripts using `Pandas` for cleaning and analyzing complex sales data, improving data accuracy by up to 100%. Additionally, I created dynamic, interactive dashboards using `Tableau`, `Matplotlib`, and `Seaborn` to effectively communicate data-driven insights. </Details> | <details> <summary>👀 view topics </summary> - 🧠 **Data Science, AI, & Development:** Building expertise in AI engineering, machine learning algorithms, data modeling, and statistical analysis to develop software solutions that solve real-world problems and enable data-driven decision-making, while also learning R. </details> | <details> <summary>👀 view ongoing projects </summary> - 🤖 **[Mr-Myter (Mass YouTube Uploader)](https://github.com/mrjx-dev/mr-myter):** Creating a bot that will automatically upload YouTube Videos in bulk. <br/> - 🧠  **[LLM Report Generator](https://github.com/mrjxtr/LLM_Report_Generator):** Creating a digital product powered by LLMs to generate comprehensive reports based on input data </details> | 
-
+<!---
 </div>
-
+<!---
 ---
-
+<!---
 ## 📜 **Certifications**
-
+<!---
 <div align="center" style="max-width: 800px;">
-
+<!---
 | 📃 **[Google Data Analytics Professional Certificate](https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/Coursera%20T2UI8QFOSZ4I.pdf)** | 📃 **[Data Analytics Bootcamp Certificate](https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/Data%20Analytics%20Bootcamp%20Certificate.png)** | 📃 **[Microsoft Office Specialist Certificate](https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/Cert780122712425.pdf)** |
 | --- | --- | --- |
 | <details><summary>👀 see badge</summary><img src="https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/google-data-analytics-professional-certificate.2.png" alt="Credly Verified" width="125" height="auto"></details> | <details><summary>👀 see badge</summary><img src="https://github.com/mrjxtr/mrjxtr/blob/20d92d2e889f23ad816ed1d443a625a7b8c07a54/certificates/Verified%20Analytics%20Bootcamp%20Certification.png" alt="BY: ALEXANDER BREGERG" width="125" height="auto"></details> | --- |
-
+<!---
 </div>
 
 
