@@ -4,7 +4,7 @@
 
 <div align="center">
 
-I'm a versatile freelancer with a background that spans diverse fields including **Full-stack Software Development (Current Focus)**,  **Data Analytics**, **Data Science (AI/ML)**, **Social Media Management**, **Music Production**, and **Video Editing**.
+I'm a freelancer with a background that spans diverse fields, including **Full-stack Software Development** (Current Focus), **Data Analytics**, **Data Science** (AI/ML), **Social Media Management**, **Music Production**, and **Video Editing**.
 
 </div>
 
