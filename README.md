@@ -2,7 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=250&size=20&duration=5000&pause=1000&width=1000&lines=Full-Stack+Software+Developer+|+Python%2C+Go%2C+Javascript/TypeScript;API+Integration%2C+Automation+%26+Scripting%2C+Web+Development%2C+AI+%26+Analytics;Building+Sofware+Solutions+To+Solve+Real+World+Problems)](https://git.io/typing-svg)
 
+<div align="center">
+
 I'm a versatile freelancer with a background that spans diverse fields including **Full-stack Software Development (Current Focus)**,  **Data Analytics**, **Data Science (AI/ML)**, **Social Media Management**, **Music Production**, and **Video Editing**.
+
+</div>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrjxtr)
 [![Upwork](https://img.shields.io/badge/-Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f2fd0e74a0c5055a?mp_source=share)
@@ -12,10 +18,9 @@ I'm a versatile freelancer with a background that spans diverse fields including
 [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/mrjxtr)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mrjxtr.dev@gmail.com)
 
+</div>
+
 ---
-
-## 🔧 **Tech Stack**
-
 
 <p align="center">
   <a href="https://skillicons.dev"> 
@@ -34,8 +39,6 @@ I'm a versatile freelancer with a background that spans diverse fields including
 </div>
 
 ---
-
-## 📊 **Stats**
 
 <div align="center">
   <a href="https://github.com/mrjxtr?tab=repositories">
