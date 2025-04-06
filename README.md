@@ -26,8 +26,6 @@ I'm a freelancer with a background that spans diverse fields, including **Full-s
   
 </div>
 
----
-
 <div align="center">
   <a href="https://github.com/mrjxtr?tab=repositories">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mrjxtr&theme=apprentice&hide_rank=true&show_icons=true" />
