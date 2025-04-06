@@ -1,22 +1,10 @@
-# Hi there, I'm Jester Lumacad! ([@mrjxtr](https://mrjxtr.dev/) | [@mrjx-dev](https://github.com/mrjx-dev)) 👋🏼 Welcome to my GitHub portfolio!
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=250&size=20&duration=5000&pause=1000&width=1000&lines=Full-Stack+Software+Developer+|+Python%2C+Go%2C+Javascript/TypeScript;API+Integration%2C+Automation+%26+Scripting%2C+Web+Development%2C+AI+%26+Analytics;Building+Sofware+Solutions+To+Solve+Real+World+Problems)](https://git.io/typing-svg)
-
 <div align="center">
+
+# Hi there, I'm Jester Lumacad! ([@mrjxtr](https://mrjxtr.dev/) | [@mrjx-dev](https://github.com/mrjx-dev))<br>👋🏼 Welcome to my GitHub portfolio!
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=250&size=20&duration=5000&pause=1000&width=1000&center=true&lines=Full-Stack+Software+Developer+|+Python%2C+Go%2C+Javascript/TypeScript;API+Integration%2C+Automation+%26+Scripting%2C+Web+Development%2C+AI+%26+Analytics;Building+Sofware+Solutions+To+Solve+Real+World+Problems)](https://git.io/typing-svg)
 
 I'm a freelancer with a background that spans diverse fields, including **Full-stack Software Development** (Current Focus), **Data Analytics**, **Data Science** (AI/ML), **Social Media Management**, **Music Production**, and **Video Editing**.
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrjxtr)
-[![Upwork](https://img.shields.io/badge/-Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f2fd0e74a0c5055a?mp_source=share)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mrjxtr)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mrjxtr)
-[![Threads](https://img.shields.io/badge/-Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.net/@mrjxtr)
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/mrjxtr)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mrjxtr.dev@gmail.com)
 
 </div>
 
@@ -52,6 +40,21 @@ I'm a freelancer with a background that spans diverse fields, including **Full-s
       />
   </a>
 </div>
+
+<br>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrjxtr)
+[![Upwork](https://img.shields.io/badge/-Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f2fd0e74a0c5055a?mp_source=share)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mrjxtr)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mrjxtr)
+[![Threads](https://img.shields.io/badge/-Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.net/@mrjxtr)
+[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/mrjxtr)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mrjxtr.dev@gmail.com)
+
+</div>
+
 <!---
 ---
 <!---
