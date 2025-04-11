@@ -28,7 +28,7 @@ I'm a freelancer with a background that spans diverse fields, including **Full-s
   
 | **🖥️ Backend** | **🌐 Web Frameworks** | **🎨 Frontend** | **🖱️ GUI** |
 | :---: | :---: | :---: | :---: |
-| Python, Go | Python (Django, Flask),<br>Go (Standard Library) | HTMX, HTML, JavaScript/TypeScript,<br>CSS (Bootstrap/Tailwind) | Python (CustomTKinter),<br>Golang (Fyne) |
+| Python, Go | Python (Django, Flask),<br>Go (Stdlib) | HTMX, HTML, JavaScript/TypeScript,<br>CSS (Bootstrap/Tailwind) | Python (CustomTKinter),<br>Golang (Fyne) |
   
 </div>
 
