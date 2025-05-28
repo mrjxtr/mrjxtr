@@ -18,7 +18,7 @@ I'm a freelancer with a background that spans diverse fields, including **Full-s
 
 <p align="center">
   <a href="https://skillicons.dev"> 
-    <img src="https://skillicons.dev/icons?i=py,go,ts,htmx,html,css,tailwind,flask,django,vue,heroku" />
+    <img src="https://skillicons.dev/icons?i=py,go,ts,htmx,tailwind,flask,django,html,css,vue,heroku" />
     <br>
     <img src="https://skillicons.dev/icons?i=arch,bash,neovim,vscode,nodejs,sqlite,git,github" />
   </a>
