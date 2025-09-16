@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋🏼 Hi there! I'm Jester Lumacad ([@mrjxtr](https://mrjxtr.dev/) | [@mrjx-dev](https://github.com/mrjx-dev))
+# 👋🏼 Hi there! I'm Jester Lumacad ([@mrjxtr](https://mrjxtr.dev/) | [@mrjxtr-dev](https://github.com/mrjxtr-dev))
 
 <!--- <br>👋🏼 Welcome to my GitHub portfolio! --->
 
