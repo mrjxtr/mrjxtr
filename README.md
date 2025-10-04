@@ -14,8 +14,6 @@ I'm a freelancer with a background that spans diverse fields, including **Full-s
 
 </div>
 
----
-
 <p align="center">
   <a href="https://skillicons.dev"> 
     <img src="https://skillicons.dev/icons?i=py,go,ts,js,htmx,tailwind,flask,django,html,css,vue" />
