@@ -24,6 +24,8 @@ I'm a freelancer with a background that spans diverse fields, including **Full-s
   </a>
 </p>
 
+<!---
+
 <div align="center">
   
 | **🖥️ Backend** | **🌐 Web Frameworks** | **🎨 Frontend** | **🖱️ GUI** |
@@ -31,6 +33,8 @@ I'm a freelancer with a background that spans diverse fields, including **Full-s
 | Python, Go | Python (Django, Flask),<br>Go (Chi) | HTMX, JavaScript/TypeScript (Vue),<br>CSS (Bootstrap/Tailwind) | Python (CustomTKinter),<br>Golang (Fyne) |
   
 </div>
+
+--->
 
 ---
 
