@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋🏼 Hi there! I'm Jester Lumacad 🇵🇭 <br> [@mrjxtr](https://mrjxtr.dev/) | [@mrjxtr-dev](https://github.com/mrjxtr-dev)
+# 👋🏼 Hi there! I'm Jester Lumacad 🇵🇭 <br> [@mrjxtr](https://mrjxtr.dev) | [@mrjxtr-dev](https://github.com/mrjxtr-dev) | [@OSSPH](https://ossph.org/)
 
 <!--- <br>👋🏼 Welcome to my GitHub portfolio! --->
 
@@ -34,6 +34,18 @@ I'm a freelancer with a background that spans diverse fields, including **Full-s
 
 --->
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrjxtr)
+[![Upwork](https://img.shields.io/badge/-Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f2fd0e74a0c5055a?mp_source=share)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mrjxtr)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mrjxtr)
+[![Threads](https://img.shields.io/badge/-Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.net/@mrjxtr)
+[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/mrjxtr)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mrjxtr.dev@gmail.com)
+
+</div>
+
 ---
 
 <div align="center">
@@ -53,20 +65,6 @@ I'm a freelancer with a background that spans diverse fields, including **Full-s
       />
   </a>
   <div style="height:10px;"></div>
-</div>
-
-<br>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrjxtr)
-[![Upwork](https://img.shields.io/badge/-Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f2fd0e74a0c5055a?mp_source=share)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mrjxtr)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mrjxtr)
-[![Threads](https://img.shields.io/badge/-Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.net/@mrjxtr)
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/mrjxtr)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mrjxtr.dev@gmail.com)
-
 </div>
 
 <!---
