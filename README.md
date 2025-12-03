@@ -4,7 +4,7 @@
 
 <!--- <br>👋🏼 Welcome to my GitHub portfolio! --->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=600&size=16&duration=5000&pause=1000&width=1000&height=30&center=true&vCenter=true&lines=Self-Taught+Software+Automation+Engineer+|+Python%2C+Go%2C+TypeScript;API+Integration%2C+Automation%2C+A.I%2C+Full-Stack+Web+%26+Desktop+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=jetbrains+mono&weight=600&size=16&duration=5000&pause=1000&width=1000&height=30&center=true&vCenter=true&lines=Self-Taught+A.I+%26+Software+Automation+Engineer+|+Python%2C+Go%2C+TypeScript;Automation%2C+API+Integration%2C+Full-Stack+Web+%26+Desktop+APP+Development)](https://git.io/typing-svg)
 
 <!---
 
